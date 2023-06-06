@@ -8,3 +8,12 @@ pip install fastapi
 pip install httpx
 
 pip install python-dotenv
+
+# .env
+NER_TAGGING_API_URL = ''
+
+KSL_TRANSLATER_FROM_API_URL = ''
+
+KSL_TRANSLATER_TO_API_URL = ''
+
+TTS_API_URL = ''
