@@ -9,6 +9,8 @@ pip install httpx
 
 pip install python-dotenv
 
+pip install "uvicorn[standard]"
+
 # .env
 NER_TAGGING_API_URL = ''
 
